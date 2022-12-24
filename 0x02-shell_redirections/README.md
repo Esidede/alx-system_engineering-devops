@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 0x02. Shell, I/O Redirections and filters
 
 [0-hello_world](./0-hello_world) - Write a script that prints “Hello, World”, followed by a new line to the standard output.
@@ -65,3 +66,6 @@ The ‘decoded’ message has to end with a new line. You are not allowed to use
 
 [103-the_biggest_fan](./103-the_biggest_fan) - Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
 Order by number of requests, most active host or IP at the top. You are not allowed to use grep, egrep, fgrep or rgrep.
+=======
+0x02 shell IO redirections and fliters readme file
+>>>>>>> 9372b45d0506a548d4e9e15ea008e3f3a493b7a7

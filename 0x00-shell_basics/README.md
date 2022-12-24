@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 0x00. Shell, basics 
 
 [0-current_working_directory](./0-current_working_directory) - Write a script that prints the absolute path name of the current working directory.
@@ -50,3 +51,6 @@ You can assume that all the files we will test with will have at least one lette
 The listing should end with a new line.
 
 [school.mgc](./school.mgc) - Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+=======
+second readme file
+>>>>>>> 9372b45d0506a548d4e9e15ea008e3f3a493b7a7
