@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 ls -am -p
-=======
-ls -amvp
->>>>>>> 9372b45d0506a548d4e9e15ea008e3f3a493b7a7
